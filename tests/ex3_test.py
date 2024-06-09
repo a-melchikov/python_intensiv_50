@@ -1,5 +1,5 @@
 import pytest
-from ex3 import float_int_int
+from exercises.ex3 import float_int_int
 
 
 @pytest.mark.parametrize(
